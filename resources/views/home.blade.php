@@ -121,7 +121,7 @@
    <hr>
   <div class="row" style="padding-left: 15px; padding-top: 15px">
     <div class="col-sm-4">
-      <h2>Rincian Project (Update)</h2>
+      <h2>Rincian Project (Update) - 2</h2>
       <div></div>
       <input type="" name="" value="{{ $tampilkan->nama }}">
       <input type="" name="" value="{{ $tampilkan->email }}">
